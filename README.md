@@ -6,3 +6,4 @@ The research of some projects.
 * [ ] plasma
 * [x] tests
 * [x] docs
+* [ ] blockchain security
